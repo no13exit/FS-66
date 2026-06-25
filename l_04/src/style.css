@@ -1,0 +1,35 @@
+p {
+    background-color: aquamarine;
+}
+
+#p2 {
+    background-color: orange;
+    font-weight: bold;
+}
+
+p {
+    background-color: chartreuse;
+}
+
+#p2 {font-style : italic;}
+
+h2 {
+    background-color: darkgoldenrod;
+    /*width: fit-content;*/
+}
+
+.box1 {
+    border: 1px solid black;
+}
+
+.big {
+    font-size : 80px;
+}
+
+.small {
+    font-size : 12px;
+}
+
+* {
+    text-align: center;
+}
