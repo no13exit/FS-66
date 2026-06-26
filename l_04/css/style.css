@@ -4,7 +4,7 @@
     display: inline;
     text-align: center;
     font-size: 200px;
-    letter-spacing: -60px;
+    letter-spacing: -20px;
 }
 
 .blue {
@@ -12,7 +12,7 @@
     display: inline;
     text-align: center;
     font-size: 200px;
-    letter-spacing: -60px;
+    letter-spacing: -20px;
 }
 
 .red {
@@ -20,7 +20,7 @@
     display: inline;
     text-align: center;
     font-size: 200px;
-    letter-spacing: -60px;
+    letter-spacing: -20px;
 }
 
 .green {
@@ -28,7 +28,7 @@
     display: inline;
     text-align: center;
     font-size: 200px;
-    letter-spacing: -60px;
+    letter-spacing: -20px;
 }
 
 .yellow {
@@ -36,15 +36,15 @@
     display: inline;
     text-align: center;
     font-size: 200px;
-    letter-spacing: -60px;
+    letter-spacing: -20px;
 }
 
 .toprow {
     text-align: center;
-    margin: 50px 0px -100px;
+    margin: 50px 0 -150px;
 }
 
 .bottomrow {
     text-align: center;
-    margin: -100px 0px 50px;
+    margin: -150px 0 50px;
 }
