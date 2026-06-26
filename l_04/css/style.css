@@ -1,0 +1,56 @@
+.inline {
+    display: inline;
+    text-align: center;
+    font-size: 200px;
+    letter-spacing: -60px;
+}
+
+.black {
+    color: black;
+    display: inline;
+    text-align: center;
+    font-size: 200px;
+    letter-spacing: -60px;
+}
+
+.blue {
+    color: blue;
+    display: inline;
+    text-align: center;
+    font-size: 200px;
+    letter-spacing: -60px;
+}
+
+.red {
+    color: red;
+    display: inline;
+    text-align: center;
+    font-size: 200px;
+    letter-spacing: -60px;
+}
+
+.green {
+    color: green;
+    display: inline;
+    text-align: center;
+    font-size: 200px;
+    letter-spacing: -60px;
+}
+
+.yellow {
+    color: yellow;
+    display: inline;
+    text-align: center;
+    font-size: 200px;
+    letter-spacing: -60px;
+}
+
+.toprow {
+    text-align: center;
+    margin: 50px 0px -100px;
+}
+
+.bottomrow {
+    text-align: center;
+    margin: -100px 0px 50px;
+}
